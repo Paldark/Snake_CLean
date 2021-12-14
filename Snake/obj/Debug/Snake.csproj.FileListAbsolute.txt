@@ -5,3 +5,4 @@ D:\Work\LangLearn\Snake_Clean\Snake\bin\Debug\Snake.exe
 D:\Work\LangLearn\Snake_Clean\Snake\bin\Debug\Snake.pdb
 D:\Work\LangLearn\Snake_Clean\Snake\obj\Debug\Snake.exe
 D:\Work\LangLearn\Snake_Clean\Snake\obj\Debug\Snake.pdb
+D:\Work\LangLearn\Snake_Clean\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
